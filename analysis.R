@@ -4,3 +4,4 @@
 
 #new word
 
+summary(gapminder)
